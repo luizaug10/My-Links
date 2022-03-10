@@ -18,9 +18,23 @@ body {
   text-align: center;
 }
 
-.instagram::button {
-  justify-content: center;
-  align-content: center;
-  justify-items: center;
-  align-items: center;
+button {
+  flex: 10;
+  border-radius: 15px;
+  font-weight: 1000;
+  height: 100%;
+  font-size: 1rem;
+  background-color: #23a0f5;
+  color: white;
+  padding: 12px;
+  cursor: pointer;
+  border: none;
+}
+
+.links {
+  color: white;
+}
+
+.bts {
+  text-align: center;
 }
