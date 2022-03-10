@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(90deg, #000000, #23a0f5 100%);
+}
+
+.cabecalho {
+  color: white;
+  text-align: center;
+}
+
+.redes-sociais {
+  color: white;
+  text-align: center;
+}
+
+.instagram::button {
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+}
