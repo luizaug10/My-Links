@@ -14,9 +14,9 @@ section {
 }
 
 button {
-  flex: 10;
+  flex: 1;
   border-radius: 15px;
-  font-weight: 1000;
+  font-weight: 700;
   height: 100%;
   font-size: 1rem;
   background-color: #23a0f5;
@@ -28,6 +28,7 @@ button {
 
 a {
   color: white;
+  text-decoration: none;
 }
 
 div {
