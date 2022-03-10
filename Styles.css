@@ -8,12 +8,7 @@ body {
   background: linear-gradient(90deg, #000000, #23a0f5 100%);
 }
 
-.cabecalho {
-  color: white;
-  text-align: center;
-}
-
-.redes-sociais {
+section {
   color: white;
   text-align: center;
 }
@@ -35,7 +30,7 @@ button {
   color: white;
 }
 
-.bts {
+div {
   text-align: center;
 }
 
