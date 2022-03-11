@@ -41,7 +41,15 @@ footer {
 }
 
 .nav {
+  margin-left: 5px;
   color: white;
   text-align: left;
   cursor: pointer;
+}
+
+.obs {
+  margin-left: 5px;
+  font-size: 12px;
+  text-align: left;
+  margin-top: 20px;
 }
