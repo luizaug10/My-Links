@@ -39,3 +39,9 @@ footer {
   text-align: center;
   color: white;
 }
+
+.nav {
+  color: white;
+  text-align: left;
+  cursor: pointer;
+}
