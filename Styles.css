@@ -8,6 +8,13 @@ body {
   background: linear-gradient(90deg, #000000, #23a0f5 100%);
 }
 
+img {
+  align-items: center;
+  border-radius: 100px;
+  max-width: 150px;
+  border: 3px solid white;
+}
+
 section {
   color: white;
   text-align: center;
