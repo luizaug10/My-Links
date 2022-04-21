@@ -42,11 +42,6 @@ div {
   text-align: center;
 }
 
-footer {
-  text-align: center;
-  color: white;
-}
-
 .nav {
   margin-left: 5px;
   color: white;
@@ -74,4 +69,9 @@ footer {
   font-size: 30px;
   margin: 0px 50px;
   font-weight: 350;
+}
+
+footer {
+  text-align: center;
+  color: white;
 }

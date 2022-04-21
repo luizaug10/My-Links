@@ -42,11 +42,6 @@ div {
   text-align: center;
 }
 
-footer {
-  text-align: center;
-  color: white;
-}
-
 .nav {
   margin-left: 5px;
   color: white;
@@ -63,4 +58,9 @@ footer {
 
 .mp {
   font-weight: 700;
+}
+
+footer {
+  text-align: center;
+  color: white;
 }
